@@ -47,16 +47,12 @@ function App() {
         </div>
       )}
       {user ? (
-        <button onClick={handleSignOut}>
-        <img src="Firebase Google Authentication\src\icons8-google.svg" alt="" />
-        Sign Out
-      </button>
+        <button onClick={handleSignOut}>Sign Out</button>
       ) : (
-        <button onClick={handleSignIn}>{""} <img src="Firebase Google Authentication\src\icons8-google.svg" alt="" />Google Sign In</button>
+        <button onClick={handleSignIn}>Google Sign In</button>
       )}
     </>
   );
 }
-
 
 export default App;
