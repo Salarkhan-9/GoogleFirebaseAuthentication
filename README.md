@@ -4,6 +4,7 @@
 Run the Follwoing commands in Terminal
 
 ```bash
+  npm cd Firebase Google Authentication 
   npm install 
   npm run dev
 ```
