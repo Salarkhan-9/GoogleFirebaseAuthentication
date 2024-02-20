@@ -1,5 +1,5 @@
 ## Firebase Google Authentication 
-
+Firebase Google Authenticating , Authenicate the users by his/her Gmail,and after Authenication it, display Photo (Of Gmail ) , Gmail (Address) and Name,This to Understand the Google Authentication with Firebase setup .
 ## Installation
 Run the Follwoing commands in Terminal
 
